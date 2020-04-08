@@ -6,5 +6,5 @@ npm install
 
 Then install Postman extension in Google Chrome and open it.
 
-Then enter the following URL anf perform the required operations:CRUD
+Then enter the following URL and perform the required operations:CRUD
 http://localhost:3000/tasks
